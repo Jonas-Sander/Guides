@@ -4,8 +4,7 @@
   "trash_scores": {
       "default": -30000
   },
-  "trash_description": "Language: German Dual and Multi language releases",
-  "name": "Language: German + Original",
+  "trash_description": "Language: Not English or German",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
     {
